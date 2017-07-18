@@ -5,7 +5,7 @@ resources:
       - deploy-ecs-basic
     integration: dr-ecr
     pointer:
-      sourceName: "679404489841.dkr.ecr.us-east-1.amazonaws.com/deploy-ecs-basic"
+      sourceName: "796957138374.dkr.ecr.ap-northeast-1.amazonaws.com/node-example"
     seed:
       versionName: "latest"
 
